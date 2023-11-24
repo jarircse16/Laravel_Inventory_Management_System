@@ -1,0 +1,24 @@
+
+    .bold-header {
+        font-weight: bold;
+    }
+
+    body {
+            display: flex;
+            flex-direction: column;
+            min-height: 100vh;
+            margin: 0;
+        }
+
+        header {
+            /* Your header styles */
+        }
+
+        main {
+            flex: 1;
+        }
+
+        footer {
+            /* Your footer styles */
+            margin-top: auto;
+        }
